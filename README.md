@@ -9,8 +9,8 @@ We’ll do define these series and their properties.
 **Complex Permittivity**:
 The complex permittivity is used to determine:
 -**Dielectric strength (∆ε)**
--**Relaxation time (τr)**
--**Relaxation frequency (fr)**
+***Relaxation time (τr)**
++**Relaxation frequency (fr)**
 
 **Temperature dependence of relaxation time and frequency.**
 We will create functions or classes to calculate these quantities
